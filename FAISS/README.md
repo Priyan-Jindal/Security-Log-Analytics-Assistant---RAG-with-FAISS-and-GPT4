@@ -1,6 +1,3 @@
-
----
-
 ### **FAISS Indexing (`FAISS/README.md`)**
 ```markdown
 # Security Log Analytics - FAISS Indexing
